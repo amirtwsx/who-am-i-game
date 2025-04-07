@@ -1,16 +1,23 @@
-# who_am_i
+# Who am I 🎭
 
-A new Flutter project.
+Игра-угадайка, созданная в рамках курса **Crossplatform Development** в **Astana IT University**.
 
-## Getting Started
+## 📱 Описание
+- Игрок 1 вводит слово (например, знаменитость)
+- Игрок 2 должен угадать, задавая вопросы (с ответами "да", "нет", "не знаю")
+- Встроен экран для ввода и угадывания
+- Реализована страница "О приложении" (About Page)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Стек технологий
+- Flutter (Frontend)
+- VS Code
+- Android Studio (эмулятор)
 
-A few resources to get you started if this is your first Flutter project:
+## 👥 Разработчики
+> Разработано [ТВОИ ИМЕНА] в рамках курса "Crossplatform Development".  
+Преподаватель: *Assistant Professor Abzal Kyzrkanov*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Запуск
+```bash
+flutter pub get
+flutter run
